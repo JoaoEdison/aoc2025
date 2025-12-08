@@ -1,3 +1,5 @@
+#!/usr/local/bin/apl -s
+
 ⍝ Translated solution from:
 ⍝ https://github.com/mgtezak/Advent_of_Code/blob/master/2025/01/p2.py
 

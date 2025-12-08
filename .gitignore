@@ -3,3 +3,6 @@ aux2
 aux3
 input
 solution.py
+.apl.history
+*.sol
+tests.sh
