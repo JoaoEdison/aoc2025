@@ -16,7 +16,7 @@ Intersection ⇐ ⊣∾∊˜¬⊸/⊢
 
 # 𝕩 array
 # Returns boolean
-AllEqual ⇐ {∧´𝕩=⊑𝕩}
+AllEqual ⇐ {∧´=⟜⊑𝕩}
 
 # 𝕨-smallest value of 𝕩
 GetSmallest ⇐ {⊏˜⟜(𝕨⊏⍋)𝕩}
